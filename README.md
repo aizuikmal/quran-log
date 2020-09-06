@@ -5,7 +5,9 @@
 Need to set constants.
 - what rasm to use. (strong suggestion, rasm Uthmani, read page by page)
 - language UI (definately Bahasa Melayu as Primary. English is not in current plan)
-- the homepage UI & UIX
+- the homepage UI & UIX (whats on it, without clutter, and easy to use)
+- planning & development team/person (aizu.)
+- test user (aizu.)
 
 ## Objective
 - Primary objective: To increase motivation to read Quran, bit by bit, by seeing the progress made throughout the journey.
